@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Maji-Meter</string>
+    <string name="splashlogo">splashLogo</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="back">back</string>
+    <string name="welcome_txt">Welcome Back!</string>
+</resources>

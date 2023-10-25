@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "408243228802",
+    "firebase_url": "https://majimeter-default-rtdb.firebaseio.com",
+    "project_id": "majimeter",
+    "storage_bucket": "majimeter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408243228802:android:ef95e79f106273e913a49b",
+        "android_client_info": {
+          "package_name": "com.devkeith.majimeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408243228802-m46gh3b8rqt51rf7lsa3af41t9g72hj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMm6ESzMPD5e2PKyc5oJ-Kar37Uk_1l1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408243228802-m46gh3b8rqt51rf7lsa3af41t9g72hj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408243228802:android:4d4b06568e67850813a49b",
+        "android_client_info": {
+          "package_name": "com.kaybee.maji_meter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408243228802-m46gh3b8rqt51rf7lsa3af41t9g72hj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMm6ESzMPD5e2PKyc5oJ-Kar37Uk_1l1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408243228802-m46gh3b8rqt51rf7lsa3af41t9g72hj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
